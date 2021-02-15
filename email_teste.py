@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 from email.mime.application import MIMEApplication
 
 email_from = 'bhetamed@gmail.com'
-email_pass = 'chaveazul#a06A'
+email_pass = ''
 email_smtp_server = 'smtp.gmail.com'
 
 destination = ['leandro@chemist.com']
